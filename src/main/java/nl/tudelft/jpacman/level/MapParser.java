@@ -252,6 +252,10 @@ public class MapParser {
         }
     }
 
+
+
+
+
     /**
      * @return the BoardCreator
      */
